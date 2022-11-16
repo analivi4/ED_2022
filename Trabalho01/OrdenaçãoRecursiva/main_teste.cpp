@@ -65,7 +65,6 @@ int main(){
         quicksort(vetor, 0, tam-1);
         cout<<"Demorou no Quick sort: "<< retornatempo(comeco) << endl;
         break;
-    
     }
 
 }
